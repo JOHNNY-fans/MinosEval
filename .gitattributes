@@ -1,0 +1,6 @@
+datasets/GaoKao_Minos.json filter=lfs diff=lfs merge=lfs -text
+./datasets/GaoKao_Minos.json
+datasets/Align_Minos.json filter=lfs diff=lfs merge=lfs -text
+./datasets/Align_Minos.json
+.git/objects/ae/da877423085ab826fb09a97e9ee96c4d0ea0d7 filter=lfs diff=lfs merge=lfs -text
+./.git/objects/ae/da877423085ab826fb09a97e9ee96c4d0ea0d7
