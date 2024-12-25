@@ -9,7 +9,13 @@
             "1_11": "Bluetooth and WiFi are different standards for wireless communication. Bluetooth technology is useful when transferring information between two or more devices that are near each other when speed is not an issue, such as telephones, printers, modems and headsets.",
             "0_12": "What is UMA? Unlicensed Mobile Access is a technology that allows a UMA capable mobile phone to seamlessly switch back and forth between mobile phone networks and local wireless networks. WiFi and Bluetooth are commonly used for the local wireless part of the system."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_2",
+            "2_2",
+            "1_11",
+            "0_12"
+        ]
     },
     {
         "id": 9,
@@ -21,7 +27,13 @@
             "1_3": "Fiji is an island arc on the eastern margin of the Australian tectonic plate, one of the most seismically active places in the world. This is due to the convergence of the Australian plate and the Pacific plate. The convergent boundary is over 3000 km long, and extends from Fiji South Island, New Zealand.",
             "0_4": "Continents make up one of the two types of crust that occur on Earth — oceanic and continental crusts. Continental crust is thicker than oceanic crust. A continental margin isn't the same thing as a plate margin. Look at the eastern edge of North America."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_16",
+            "2_8",
+            "1_3",
+            "0_4"
+        ]
     },
     {
         "id": 6,
@@ -33,7 +45,13 @@
             "1_14": "Dysarthria is a motor-speech disorder. It causes the inability to coordinate or control the muscles in the face, mouth, and respiratory system. It usually occurs when a brain injury causes the muscles to become weak or immobile. People with dysarthria can’t... Read more. Dysarthria is a motor-speech disorder. It causes the inability to coordinate or control the muscles in the face, mouth, and respiratory system. It usually occurs when a brain injury causes the muscles to become weak or immobile. People with dysarthria can’t control the muscles used to make normal sounds.",
             "0_21": "Common types of adult speech impairment. There are many different types of speech impairment and speech disorders, including: aphasia, the inability to express and comprehend language. dysarthria, slurred or choppy speech. spasmodic dysphonia, which can cause your voice to be hoarse, airy, and tight."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_1",
+            "2_9",
+            "1_14",
+            "0_21"
+        ]
     },
     {
         "id": 16,
@@ -45,7 +63,13 @@
             "1_88": "Medicare does pay for durable medical equipment, but the devil is in the details.",
             "0_22": "Medicare considers you homebound if you meet both of the following criteria. 1. You need the help of another person or medical equipment such […]"
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_1",
+            "2_138",
+            "1_88",
+            "0_22"
+        ]
     },
     {
         "id": 10,
@@ -57,7 +81,13 @@
             "1_4": "Mechanical ventilation, in the healthcare setting or home, helps patients breathe by assisting the inhalation of oxygen into the lungs and the exhalation of carbon dioxide. Depending on the patient’s condition, mechanical ventilation can help support or completely control breathing.",
             "0_27": "Home mechanical ventilation (HMV) is increasingly used as a therapeutic option to patients with symptomatic chronic hypoventilation. There is, however, a paucity of solid data on factors that could affect prognosis in patients on home ventilation. In the present study, our aim was to study several factors in these patients with potential influence on survival."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_7",
+            "2_7",
+            "1_4",
+            "0_27"
+        ]
     },
     {
         "id": 12,
@@ -68,7 +98,12 @@
             "1_8": "Job Classification: Contract An Anti-Money Laundering Analyst job is newly available in Phoenix, AZ. If you have two (2) plus years’ of experience as an AML Analyst then this may be the next perfect position for you. This opportunity will require strong p...",
             "0_28": "Definition of surveillance in the Legal Dictionary - by Free online English dictionary and encyclopedia. What is surveillance? Meaning of surveillance as a legal term. What does surveillance mean in law?"
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_1",
+            "1_8",
+            "0_28"
+        ]
     },
     {
         "id": 19,
@@ -80,7 +115,13 @@
             "1_10": "In this study, P4B was investigated as a label for the secondary cell walls of radiata pine tracheids. Although the data show some significant differences to Anderson et al. (2010), P4B was confirmed as an excellent stain for cellulose in pine tracheids, notably for the S1 and S3 layers.",
             "0_7": "Mixture of large vessels and tracheids. The vascular cambium is the darker layer of cells indicated by the arrow. This meristematic. layer of cells divides inwardly to form new xylem, and outwardly to produce new phloem."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_8",
+            "2_67",
+            "1_10",
+            "0_7"
+        ]
     },
     {
         "id": 18,
@@ -92,7 +133,13 @@
             "1_6": "visceral nervous system, the visceral part of the peripheral nervous system that comprises the whole complex of nerves, fibers, ganglia, and plexuses by which impulses travel from the central nervous system to the viscera and from the viscera to the central nervous system.",
             "0_5": "Ventral root fibers are the axons of motor and visceral efferent fibers and emerge from poorly defined ventral lateral sulcus as ventral rootlets. The ventral rootlets from discrete spinal cord section unite and form the ventral root, which contain motor nerve axons from motor and visceral motor neurons."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_1",
+            "2_2",
+            "1_6",
+            "0_5"
+        ]
     },
     {
         "id": 21,
@@ -104,7 +151,13 @@
             "1_11": "An LPS Conservatorship is a court proceeding to appoint a manager for a person who is alleged to have a mental disability. An LPS Conservatorship is different from a probate conservatorship, which is established for the management of a person’s finances.",
             "0_2": "Overcurrent protection device method – Another commonly used technique to provide LPS limiting is by using a fuse or circuit breaker in series with the power output. Table 2C outlines the limits for overcurrent device limited sources."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_0",
+            "2_11",
+            "1_11",
+            "0_2"
+        ]
     },
     {
         "id": 24,
@@ -115,7 +168,12 @@
             "1_3": "Nowadays there are many skin care brands, like Theraderm, which are actively promoted by doctors and dermatologists. This is an interesting approach, because it boosts the image of the products through the associated skin care expertise of a doctor.",
             "0_0": "In the case of Theraderm, this is taken even further, as the brand was founded by a plastic surgeon, Dr. James Beckman. However, even though this brand was created by a doctor, it doesn’t mean that the products are the right choice for everyone."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "2_8",
+            "1_3",
+            "0_0"
+        ]
     },
     {
         "id": 31,
@@ -126,7 +184,12 @@
             "1_2": "A typical geon is a cylinder. Groups of geons can be combined by relating several of them to one another in ways familiar from Tinkertoy sets. A combination of geons plus selected relations among them (e.g. “side-attached”) can be recognized ...",
             "0_26": "Each triangle consists of 3 vertices and we specify those 3 vertices in a winding order as seen from the center of the triangle. As you can see in the image we first define the vertex 1 and then we can either define vertex 2 or 3 and this choice defines the winding order of this triangle."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "2_9",
+            "1_2",
+            "0_26"
+        ]
     },
     {
         "id": 36,
@@ -138,7 +201,13 @@
             "1_2": "The ALE-47 is capable of dispensing the new generation active expendable decoys POET and GEN-X in addition to the conventional chaff and flare decoys which are compatible with the previous generation ALE-40 and ALE-39 dispensers.",
             "0_49": "Team Flare is the antagonistic team that appears in Pokémon X and Y. The group was founded by Lysandre in his hopes of creating a beautiful world."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_5",
+            "2_5",
+            "1_2",
+            "0_49"
+        ]
     },
     {
         "id": 32,
@@ -150,7 +219,13 @@
             "1_33": "This observation is expanded to many other areas and it’s called it Pareto principle. Let’s list here some interesting examples of it from everyday life using excel pareto chart template: The Pareto principle is very true in finance, 20% of your investments will bring 80% of your profit. 20% of your work will result in 80% of financial returns. But you can think of anything else.",
             "0_11": "Pareto notes that money market accounts are a good way to save for those big expenses. Your funds in money market accounts at most banks—including Ally Bank—are insured by the Federal Deposit Insurance Corp. (FDIC) up to the maximum amount allowed by law, which makes them a safe place to put your personal savings."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_3",
+            "2_0",
+            "1_33",
+            "0_11"
+        ]
     },
     {
         "id": 34,
@@ -162,7 +237,13 @@
             "1_16": "Radiating Energy When the transfer of energy happens by radiation, there is no conductive medium (such as in space). That lack of medium means there is no matter there for the heat to pass through. Radiation is the energy carried by electromagnetic waves (light). Those waves could be radio waves, infrared, visible light, UV, or Gamma rays. Heat radiation is usually found in the infrared sections of the EM spectrum.",
             "0_17": "1 Radio and Television[uncountable] the business or industry of sending signals to be heard by an audience. 2  having been broadcast through radio waves and received by a radio: She first heard the news on the radio."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_17",
+            "2_52",
+            "1_16",
+            "0_17"
+        ]
     },
     {
         "id": 43,
@@ -174,7 +255,13 @@
             "1_9": "It usually happens during the first two to four weeks after transplant. As early as a week after the BMT, your child's white blood cell counts will be checked. The presence of white blood cells is one of the earliest signs of stem cell growth.A bone marrow biopsy may be done to check for engraftment in the third or fourth week after the transplant.Your child's white blood cell counts will vary a great deal as the new graft of stem cells establishes itself.t usually happens during the first two to four weeks after transplant. As early as a week after the BMT, your child's white blood cell counts will be checked. The presence of white blood cells is one of the earliest signs of stem cell growth.",
             "0_0": "I haven't heard of a BMT, but if a BLT is bacon, lettuce and tomato, then I assume BMT would be bacon, m.... and tomato.The 'm' could be meat, or mustard, or mozzarella.me-alone · 7 years ago.k, so today is Thursday, and its the day for the Subway BMT."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_2",
+            "2_0",
+            "1_9",
+            "0_0"
+        ]
     },
     {
         "id": 41,
@@ -186,7 +273,13 @@
             "1_16": "Granulation tissue typically consists of an abundance of blood vessels. mixed with fibrous connective tissue. Granulation tissue grows from. the base of a wound and is able to fill the wound, facilitating eventual. epithelialisation and wound closure. Continued wound healing will.",
             "0_62": "Vascular tissue, which carries blood, is essential and forms as a part of granulation tissue with the purpose of carrying a sufficient supply of blood to the newly forming tissue."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_6",
+            "2_0",
+            "1_16",
+            "0_62"
+        ]
     },
     {
         "id": 44,
@@ -197,7 +290,12 @@
             "1_31": "The center of the Roman Empire was Rome, the Eternal City that was built east of the Tiber River. The layout of the streets and the building of sewers can be credited to the Etruscans.",
             "0_15": "Latin was the language of the Romans who pushed out the Greeks and conquered the Etruscans and just about everybody else around. After the fall of the Roman empire in 475AD, Italy broke up into many small, separate kingdoms."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "2_4",
+            "1_31",
+            "0_15"
+        ]
     },
     {
         "id": 50,
@@ -209,7 +307,13 @@
             "1_0": "Carvedilol levels reduced by rifampin. Increased absorption with cimetidine. Caution with drugs that affect cardiac conduction (esp. diltiazem, verapamil). May potentiate antidiabetic agents. Monitor digoxin, cyclosporine when changing carvedilol dose. Anesthesia. See Also: COREG CR. Pharmacological Class: Noncardioselective beta-blocker/alpha-1 blocker.",
             "0_31": "Episodes of dizziness or fluid retention during initiation of COREG can generally be managed. without discontinuation of treatment and do not preclude subsequent successful titration of, or a. favorable response to, carvedilol."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_29",
+            "2_8",
+            "1_0",
+            "0_31"
+        ]
     },
     {
         "id": 48,
@@ -221,7 +325,13 @@
             "1_0": "What is the suffix and definition of analgesia (ia) absence of pain: What do these suffixes mean? -ac, -al, -ar, -ary, -ic, -ical, -ile, -ous: pertaining to: What does this suffix mean? -form: like or resembling: does this suffix mean? -oid: Suffix that means resembling: What is the suffix and definition of anesthesia (ia) loss of sensation",
             "0_39": "Search for suffix meanings here. Suffix Prefix Dictionary. Find suffix meanings here: Tip 1: You can also use the box above to search for suffixes with a particular meaning (e.g., enter big and get the answer -megaly). In other words, it also works as a reverse dictionary. Tip 2: If you don't get a result, try using a query that's a synonym (e.g., instead of carry, try searching with the word bear)."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_7",
+            "2_6",
+            "1_0",
+            "0_39"
+        ]
     },
     {
         "id": 2,
@@ -233,7 +343,13 @@
             "1_2": "“Case or Controversy” and Jurisdictional Requirements. A party seeking declaratory relief under the statute must present an “actual controversy” in order to satisfy the “case or controversy” requirement of Article III. The Declaratory Judgment Act was not intended as a device for rendering mere advisory opinions. The case must involve a controversy that is substantial and concrete, must touch the legal relations of parties with adverse interests, and must be subject to specific relief through a decree of conclusive character.",
             "0_27": "Declaratory Act. The American Colonies Act 1766 (6 Geo 3 c 12), commonly known as the Declaratory Act, was an Act of the Parliament of Great Britain, which accompanied the repeal of the Stamp Act 1765 and the changing and lessening of the Sugar Act."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_3",
+            "2_9",
+            "1_2",
+            "0_27"
+        ]
     },
     {
         "id": 28,
@@ -245,7 +361,13 @@
             "1_28": "Like fir trees, spruces have single needles connected to the stems. However, spruce tree needles are sharp and square-shaped. On a real tree, spruce needles easily break apart if you bend them. As a whole, spruce trees sport the traditional full Christmas tree shape, thanks to their upturned branches.",
             "0_2": "Becoming a Physical Therapist. The following article provides a brief description of what it means to be a physical therapist. It also provides information and advice on how to get accepted into a physical therapy school. The article may be of interest to you if you are thinking of becoming a physical therapist.ecoming a Physical Therapist. The following article provides a brief description of what it means to be a physical therapist. It also provides information and advice on how to get accepted into a physical therapy school. The article may be of interest to you if you are thinking of becoming a physical therapist."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_2",
+            "2_4",
+            "1_28",
+            "0_2"
+        ]
     },
     {
         "id": 26,
@@ -257,7 +379,13 @@
             "1_23": "Its receptor is linked to a G protein. d. Acetylcholine is released by axon terminals of the motor neuron. d. Acetylcholine is released by axon terminals of the motor neuron. Action potentials travel the length of the axons of motor neurons to the axon terminals.",
             "0_0": "Presynaptic Knob Definition of Presynaptic Knob :An area at the end of an axon that contains neurotransmitters in synaptic vesicles. Presynaptic Knob is part of the Chemical Synapse Component group."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_12",
+            "2_2",
+            "1_23",
+            "0_0"
+        ]
     },
     {
         "id": 39,
@@ -269,7 +397,13 @@
             "1_40": "As a building block for protein, amino acids like L-lysine are necessary for normal growth and development. In particular, L-lysine is needed by the body to manufacture carnitine, a substance that is used in the conversion of fatty acids into energy.It also helps in calcium absorption and collagen formation which are important for muscle and bone health.n particular, L-lysine is needed by the body to manufacture carnitine, a substance that is used in the conversion of fatty acids into energy. It also helps in calcium absorption and collagen formation which are important for muscle and bone health.",
             "0_2": "Learn the FACTS about Glutamine, BCAA's, Arginine, Lysine, Methionine, Carnitine, Cysteine, and HMB. Amino Acids are wondrous things. Once you learn what they do in the body, you're almost struck with amazement."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_8",
+            "2_9",
+            "1_40",
+            "0_2"
+        ]
     },
     {
         "id": 54,
@@ -281,7 +415,13 @@
             "1_4": "Your oven takes care of the rest. I put my Coconut Chicken Strips on a bed of mixed kale greens. I came across a beautiful Mamey Sapote in the grocery store and added about ½ cup of the fruit to each salad. A Mamey Sapote is a fruit native to Central America.",
             "0_1": "That’s it! Your oven takes care of the rest. I put my Coconut Chicken Strips on a bed of mixed kale greens. I came across a beautiful Mamey Sapote in the grocery store and added about ½ cup of the fruit to each salad."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_4",
+            "2_5",
+            "1_4",
+            "0_1"
+        ]
     },
     {
         "id": 17,
@@ -293,7 +433,13 @@
             "1_23": "(ĭn'trŏn) A segment of a gene situated between exons that does not function in coding for protein synthesis. After transcription of a gene to messenger RNA, the transcriptions of introns are removed, and the exons are spliced together by enzymes before translation and assembly of amino acids into proteins. Compare exon.",
             "0_29": "In the a (I) collagen gene, there are 21 exons which consist of this primordial unit, 9 exons which consist of 2 primordial units, 1 exon of three primordial units, and 10 exons which consist of 1 or 2 primordial units with 9 base pairs deleted (Darnell, p. 907).ince sponges can contain both fibrillar and non-fibrillar collagens, the amplification of this gene family had begun in the early animals (Exposito, 1990). Type IV collagen is known from sponges (Boute, 1997) and vertebrates and invertebrates use collagen IV in their basement membranes."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_50",
+            "2_3",
+            "1_23",
+            "0_29"
+        ]
     },
     {
         "id": 14,
@@ -304,7 +450,12 @@
             "1_5": "Atmospheric ash plume advisories/warnings are also issued by the United States Geological Survey (Aviation Color Codes). 1  Center Weather Advisory – Advisories issued when conditions just below severe (SIGMET) criteria. CWAs are issued for thunderstorms, turbulence, icing, and ceiling and visibility limits (IFR).",
             "0_5": "Definition 1. A point is that which has no part. Definition 2. A line is breadthless length. Definition 3. The ends of a line are points. Definition 4. A straight line is a line which lies evenly with the points on itself. Definition 5.A surface is that which has length and breadth only. Definition 6. The edges of a surface are lines. Definition 7.efinition 1. A point is that which has no part. Definition 2. A line is breadthless length. Definition 3. The ends of a line are points. Definition 4. A straight line is a line which lies evenly with the points on itself. Definition 5. A surface is that which has length and breadth only."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_12",
+            "1_5",
+            "0_5"
+        ]
     },
     {
         "id": 20,
@@ -316,7 +467,13 @@
             "1_25": "Techopedia explains RSA Encryption. RSA encryption is a public key encryption technology developed by RSA Data Security, which licenses the algorithm technologies and also sells the development kits. RSA is built into many common software products, including Microsoft's Internet Explorer.",
             "0_57": "Hence using an RSA key for both encryption and signature means that you have to give up much of the scientific progress on RSA an go back to a situation, where your only argument for security is the lack of known attacks. Of course, the text in the article may need some clarification and better citation.hough, authors sometimes use the the terms public key and secret key for the two keys in a key pair of a public key cryptosystem, for example when they also use symbols such as to refer to the two keys. 62.203.40.35 (talk) 21:41, 14 March 2009 (UTC)."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_3",
+            "2_5",
+            "1_25",
+            "0_57"
+        ]
     },
     {
         "id": 52,
@@ -325,7 +482,10 @@
         "response": {
             "0_45": "Reasons to stay with in-house ALM. When you're considering moving your ALM infrastructure to the cloud, your organization's culture can play an important role. The location of source code can be an emotional issue, and some organizations simply won't allow an off-site provider."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "0_45"
+        ]
     },
     {
         "id": 4,
@@ -337,7 +497,13 @@
             "1_0": "The Social Determinants of Health topic area within Healthy People 2020 is designed to identify ways to create social and physical environments that promote good health for all. All Americans deserve an equal opportunity to make the choices that lead to good health.",
             "0_13": "See also. 1  Global mental health. 2  Global Strategy for Women's and Children's Health. 3  Health system. 4  Public health. 5  Social determinants of health. 6  Migrant health. 7  Child health and nutrition in Africa."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_8",
+            "2_10",
+            "1_0",
+            "0_13"
+        ]
     },
     {
         "id": 5,
@@ -349,7 +515,13 @@
             "1_8": "Be prepared with the most accurate 10-day forecast for Montego Bay, Jamaica with highs, lows, chance of precipitation from The Weather Channel and Weather.com Be prepared with the most accurate 10-day forecast for Montego Bay, Jamaica with highs, lows, chance of precipitation from The Weather Channel and Weather.com Scan for updated forecast Connection restored!",
             "0_7": "All Jamaica Hotels; Jamaica Hotel Deals; Last Minute Hotels in Jamaica; By Hotel Type Spa Resorts in Jamaica; Jamaica Beach Hotels; Romantic Hotels in Jamaica; Jamaica Resorts; Business Hotels Jamaica; Luxury Hotels in Jamaica; Family Hotels in Jamaica; Jamaica Green Hotels; Casinos in Jamaica; Best Value Hotels in Jamaica; By Hotel Class 5-star Hotels in Jamaica"
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_4",
+            "2_111",
+            "1_8",
+            "0_7"
+        ]
     },
     {
         "id": 3,
@@ -360,7 +532,12 @@
             "1_9": "Possible causes of pelvic pain in women only may include: 1  Ectopic pregnancy. 2  Miscarriage. 3  Pelvic inflammatory disease. 4  Ovulation. 5  Menstrual cramps. 6  Ovarian cysts or other ovarian disorders. 7  Fibroids. 8  Endometriosis.",
             "0_30": "Thus, unexplained pelvic pain is often due to adhesions. These commonly form after a surgery, infection, endometriosis or trauma. Pelvic adhesions join structures with strong glue-like bonds that can last a lifetime and can cause chronic pelvic pain."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_9",
+            "1_9",
+            "0_30"
+        ]
     },
     {
         "id": 8,
@@ -371,7 +548,12 @@
             "1_0": "Freebase(0.00 / 0 votes)Rate this definition: Contour plowing. Contour ploughing or contour farming is the farming practice of ploughing and/or planting across a slope following its elevation contour lines.",
             "0_37": "Plowing and planting across the changing slope of land, rather than in straight lines, to help retain water and reduce soil erosion. Method for reducing soil erosion; plant stalks are left in the field after harvesting and the next year's crop is planted within the stalks without plowing."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_1",
+            "1_0",
+            "0_37"
+        ]
     },
     {
         "id": 7,
@@ -383,7 +565,13 @@
             "1_9": "In general, your cod will be done when it reaches an internal temperature of 54°C (130°F), regardless of cooking method. Here are some times/temperatures that work for me: 1  Sous Vide: 10 minutes or more at 56°C, followed by a quick broiling/grilling/blow torch. 2  Baking (thick fillets): 15–20 minutes at 218°C (425°F).",
             "0_6": "Sous vide cooking has been called revolutionary. It's been named the best thing for cooking since the microwave. It's also been accused of being wasteful, unnatural, and just plain weird.imply put, sous vide cooking is the process of vacuum-sealing raw food in plastic pouches and cooking it slowly in a temperature-controlled water bath."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_8",
+            "2_6",
+            "1_9",
+            "0_6"
+        ]
     },
     {
         "id": 1,
@@ -394,7 +582,12 @@
             "1_5": "US attitude towards WW1     The US didn't want to join the war on anyone's side and followed a policy of isolationism so that they wouldn't be dragged into WW1. … They still sold weapons, ammunition and supplies to whoever was buying them before.",
             "0_10": "most famous WW1 treaty; treaty between Germany and the allied powers in which Germany accepted full responsibility for the war and agreed to pay reparation; the US did not ratify the treaty. Victory Gardens"
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_7",
+            "1_5",
+            "0_10"
+        ]
     },
     {
         "id": 11,
@@ -406,7 +599,13 @@
             "1_16": "The median of a trapezoid is a segment parallel to the bases that connects the midpoints of the non-parallel sides. This line is special because we can determine its length directly from the length of the two bases. No joke.",
             "0_51": "Definition of Trapezoid. A trapezoid is a quadrilateral with only one pair of parallel sides. As shown in the picture below, the parallel sides of trapezoid ABCD are called bases and the sides that are not parallel are called legs. Facts About Trapezoids. The degree measure of the four angles add up to 360 degrees."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_7",
+            "2_5",
+            "1_16",
+            "0_51"
+        ]
     },
     {
         "id": 13,
@@ -418,7 +617,13 @@
             "1_0": "VIEW CALENDAR. United Thai Boxing and MMA is a community of people united by a love for Muay Thai, mixed martial arts and the desire to help each other improve through hard work. We help people succeed through a combination of group classes, private instruction, and open gym hours. Please use the links above to learn more about us or click here to get started now!",
             "0_14": "Buying Thai Baht outside Thailand. Thai baht is widely stocked by most currency suppliers outside Thailand. However, rates obtained in Thailand are higher and money can be exchanged on arrival at more advantageous rates. Exchanging cash in Thailand is EASY"
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_5",
+            "2_16",
+            "1_0",
+            "0_14"
+        ]
     },
     {
         "id": 15,
@@ -429,7 +634,12 @@
             "1_16": "For many people, sharks are the epitome of the 'cold-blooded killer'. The warm-bodied mackerel sharks are spectacular reminders that many of our stereotypes are inaccurate. As apex predators, sharks are absolutely essential to the health and vigor of marine ecosystems.",
             "0_1": "And while most mackerel sharks tend to be large, basking sharks are truly massive in comparison. We have fossil evidence of mackerel sharks going as far back as 100 million years, making them one of the oldest shark orders."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_10",
+            "1_16",
+            "0_1"
+        ]
     },
     {
         "id": 25,
@@ -439,7 +649,11 @@
             "1_10": "Definition of Environment. Environment: The sum of the total of the elements, factors and conditions in the surroundings which may have an impact on the development, action or survival of an organism or group of organisms. Search MedTerms:",
             "0_53": "Definition of Environment. An organization's environment is defined as all the elements existing outside the boundary of the organization that have the potential to affect all or part of the organization (Daft, 1997).ccording to the theory, the environment selects organizations or rejects them. Every organization has to find a niche for itself if it is to survive. As long as an organization is fulfilling the demands of the niche, it will survive."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "1_10",
+            "0_53"
+        ]
     },
     {
         "id": 22,
@@ -450,7 +664,12 @@
             "1_0": "The part that is often missed on people (and probably the most important part) is who Three Percenters are supposed to be modeled after. It’s one thing to say you will stand up and fight or wave a certain flag (when everyone else does).",
             "0_2": "An agent has two sets of clients: the talent (actors, models, voice-over artists, etc.) and the buyer. The buyer can be a casting director, advertising agency, production company, photographer, or direct client if the client has an in-house production staff.n many cases, casting directors, or other businesses go to talent agencies to find the artists for whom they are looking. The agent is paid a percentage of the star's earnings (typically 10%). Therefore agents are sometimes referred to as 10 percenters.. Various regulations govern different types of agents."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_8",
+            "1_0",
+            "0_2"
+        ]
     },
     {
         "id": 23,
@@ -462,7 +681,13 @@
             "1_4": "One of the main causes of suicide in the socio-cultural category is the feeling of being isolated or not being accepted by others. Feelings of isolation can be caused by sexual orientation, religious beliefs, and gender identity. Other possible suicide catalysts from this category include: 1  difficulty seeking help.",
             "0_4": "College Student Suicide Suicide is the second leading cause of death for college students. And the number one cause of suicide for college student suicides (and all suicides) is untreated depression."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_2",
+            "2_0",
+            "1_4",
+            "0_4"
+        ]
     },
     {
         "id": 27,
@@ -474,7 +699,13 @@
             "1_0": "In calculus, a function defined on a subset of the real numbers with real values is called monotonic if and only if it is either entirely increasing or decreasing. It is called monotonically increasing (also increasing or nondecreasing), if for all and such that one has, so preserves the order (see Figure 1). Likewise, a function is called monotonically decreasing (also decreasing or nonincreasing) if, whenever, then, so it reverses the order (see Figure 2).",
             "0_6": "Solutes can have different effects on surface tension depending on the nature of the surface and the solute: 1  Little or no effect, for example sugar at water|air, most organic compounds at oil|air. 2  Increase surface tension, most inorganic salts at water|air. 3  Non-monotonic change, most inorganic acids at water|air."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_7",
+            "2_6",
+            "1_0",
+            "0_6"
+        ]
     },
     {
         "id": 29,
@@ -485,7 +716,12 @@
             "1_9": "That's the reason why many hunters opt to test their shotguns and pattern it before intense hunting sessions. You wouldn't want to go in without knowing your gun well enough. Not only does this lessen the number of clean kills you can make, but it may also hurt something in the process due to inaccurate shooting.",
             "0_56": "Rifled slugs are made of soft lead purposely for use in smooth bore shotguns. Actually the rifling on the slug deforms to allow the slug to pass through the choke in the bore. If your firearm is of modern manufacture and in good condition it should be safe."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_6",
+            "1_9",
+            "0_56"
+        ]
     },
     {
         "id": 33,
@@ -497,7 +733,13 @@
             "1_5": "Quick Answer. To remove dye from white clothing, chlorine bleach works best. To use this method, users should add 1/2 cup of bleach to a gallon of water and soak the clothing for 30 minutes; after the clothes have soaked, they should then be washed as normal. For fabrics that are not white, a dye or color remover is optimal.",
             "0_46": "Some clothes, the colour runs out of them when they are washed and if they happen to touch something white the colour will transfer onto the white item. Happened to me when I put a top on top of white towel in my washing basket to go out and hang them to dry."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_9",
+            "2_14",
+            "1_5",
+            "0_46"
+        ]
     },
     {
         "id": 30,
@@ -509,7 +751,13 @@
             "1_2": "Updated Oct 18, 2014 at 12:38a ET. Pete Rose says he fully expects to get into the Hall of Fame someday -- even if he's not alive to see it. In an interview with CBS News, Rose talked about why he jeopardized his sports career and shares his thoughts on his future Hall of Fame Status.",
             "0_29": "Rose spoke Wednesday with Dan Patrick and Keith Olbermann on ESPN Radio to discuss the new Pete Rose exhibit that will be on display at the Great American Ballpark as part of the Reds Hall of Fame. The exhibit will be on display for 11 months. I bet on my team every night."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_5",
+            "2_14",
+            "1_2",
+            "0_29"
+        ]
     },
     {
         "id": 35,
@@ -520,7 +768,12 @@
             "1_47": "FAO contributes to international policy through the work of its Commission on Genetic Resources for Food and Agriculture and the International Treaty on Plant Genetic Resources for Food and Agriculture.",
             "0_3": "This report presents the world nitrogen, phosphate and potassium fertilizer. medium-term supply and demand projections for the period 2014-2018. FAO, in collaboration with experts from the FAO/Fertilizer Organizations. Working Group dealing with fertilizer production, consumption and trade,"
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_10",
+            "1_47",
+            "0_3"
+        ]
     },
     {
         "id": 37,
@@ -532,7 +785,13 @@
             "1_8": "An unconformity is a buried erosional or non-depositional surface separating two rock masses or strata of different ages, indicating that sediment deposition was not continuous. blended unconformity is a type of disconformity or nonconformity with no distinct separation plane or contact, sometimes consisting of soils, paleosols, or beds of pebbles derived from the underlying rock.",
             "0_47": "Earth science or geoscience is a widely embraced term for the fields of science related to the planet Earth. It is the branch of science dealing with the physical constitution of the earth and its atmosphere. Earth science is the study of our planet’s physical characteristics, from earthquakes to raindrops, and floods to fossils. Earth science can be considered to be a branch of planetary science, but with a much older history. “Earth science” is a broad term that encompasses four main ..."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_10",
+            "2_10",
+            "1_8",
+            "0_47"
+        ]
     },
     {
         "id": 42,
@@ -544,7 +803,13 @@
             "1_2": "The people in ancient Egypt divided Egypt into two areas: the ‘black land’ and the ‘red land’. The black land was the fertile land on the banks of the Nile, where the ancient Egyptians grew their crops. The red land was the barren desert that protected Egypt on two sides. These deserts separated ancient Egypt from neighbouring countries and invading armies. They also provided the ancient Egyptians with a source for precious metals and semi-precious stones. More than 94 percent of Egypt consists of desert areas.",
             "0_10": "Geography of the Ancient Nile Valley. People settled and established farming villages along the Nile. Egyptians depended on annual floods to soak the land and deposit a layer of silt, or rich soil. Egyptians had to cooperate to control the Nile, building dikes, reservoirs, and irrigation ditches."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_21",
+            "2_3",
+            "1_2",
+            "0_10"
+        ]
     },
     {
         "id": 38,
@@ -555,7 +820,12 @@
             "1_39": "Discrimination based on ethnic or national origin. Ethnic discrimination is often linked to an individual’s physical appearance or family name. It occurs particularly in the workplace, in housing situations and sometimes in relation to the police.",
             "0_10": "Browse Obituaries and Death Records in Oklahoma City, Oklahoma. This page shows only the 20 most recent obituaries in Oklahoma City, Oklahoma. If you don't see the obituary or death record that you are looking for, use this form to search our entire database."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_1",
+            "1_39",
+            "0_10"
+        ]
     },
     {
         "id": 40,
@@ -567,7 +837,13 @@
             "1_7": "The whole shebang-sash, jambs, sill and everything else-is called a window. Mullion/muntin: A mullion is a heavy vertical or horizontal member between adjoining window units. Muntins are the narrow strips of wood that divide the individual panes of glass in a traditional sash.he whole shebang-sash, jambs, sill and everything else-is called a window. Mullion/muntin: A mullion is a heavy vertical or horizontal member between adjoining window units. Muntins are the narrow strips of wood that divide the individual panes of glass in a traditional sash.",
             "0_37": "Ramnath Meaning: The meaning of Ramnath has not been submitted. If you have the meaning of Ramnath, please submit it with along with any reference pages referring to the meaning of Ramnath.Copyright 2004 - 2015 Meaning-of-Names.com-Powered by Swigity, LLC Meaning of Ramnath Last Name-Surname-Family Name Ramnath."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_7",
+            "2_5",
+            "1_7",
+            "0_37"
+        ]
     },
     {
         "id": 45,
@@ -578,7 +854,12 @@
             "1_1": "His laudable desire to present a picture of the whole political situation at each important moment is fatal to the continuity of his narrative. Laudable, and the latest sources of the Pentateuch contain several such lists.",
             "0_37": "In 1992 Joe campaigned for the office of Maricopa County Sheriff, won and was re-elected by voters from 1996 – 2012. Which seems to show he was well liked. And depending on the source, the jury is still out on what is actually likable or laudable about his tenure as Maricopa County’s head gendarme."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_6",
+            "1_1",
+            "0_37"
+        ]
     },
     {
         "id": 49,
@@ -589,7 +870,12 @@
             "1_1": "Rather than raising blood cholesterol levels, as animal sources of protein do, beans actually help lower cholesterol. Beans also help reduce blood sugar and insulin levels, and may even lower cancer risk.",
             "0_31": "Foods high in soluble fiber, like oatmeal, beans and peas, barley, and many fruits and vegetables (such as apples, oranges, and carrots) are now recommended to help lower cholesterol levels. As you may know, there are two types of cholesterol-HDL or good cholesterol and LDL or bad cholesterol."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_0",
+            "1_1",
+            "0_31"
+        ]
     },
     {
         "id": 51,
@@ -601,7 +887,13 @@
             "1_16": "But with hypothyroidism, your body can have normal to low thyroxine hormone levels and elevated thyroid stimulating hormone (TSH) levels. These high TSH levels are a result of an overworked pituitary gland that is trying to elevate the hormone levels in an inadequately responsive thyroid.",
             "0_84": "A high level suggests poor. diabetes control. TSH (Thyroid Stimulating Hormone): This protein hormone is secreted by the pituitary. gland and regulates the thyroid gland. A high level. suggests your thyroid is underactive, and a low level. suggests your thyroid is overactive."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_26",
+            "2_10",
+            "1_16",
+            "0_84"
+        ]
     },
     {
         "id": 53,
@@ -613,7 +905,13 @@
             "1_10": "The form may be one approved by the state bar association or a title company. In some states, like Washington, the form for a warranty deed is outlined in a statute. Sellers don't have to use the statutory form, but as a buyer you should insist on it. It provides protection against problems with title to your land.",
             "0_55": "As long as no title problems come up, it probably will not make any difference whether the seller gives you a General Warranty Deed, a Limited Warranty Deed, or a Non-Warranty Deed. However, if a title problem should arise, the deed warranties may make a big difference to you."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_1",
+            "2_5",
+            "1_10",
+            "0_55"
+        ]
     },
     {
         "id": 46,
@@ -625,7 +923,13 @@
             "1_16": "(mŭs′əl) A body tissue composed of elongated cells (called muscle fibers) that contract to produce movement. In vertebrate animals, voluntary movement is produced by the action of muscles on bone. Movement of the muscles of the heart and other organs is involuntary and controlled by the autonomic nervous system.",
             "0_18": "Chapter 16: Systems, Support, and Movement 585 Movement The works with the skeletal system to allow move-ment. Like all muscles, the muscles that produce movement are made upof individual cells called muscle fibers. These fibers contract and relax.Most of the muscles involved in moving the body work in pairs."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_4",
+            "2_10",
+            "1_16",
+            "0_18"
+        ]
     },
     {
         "id": 47,
@@ -637,6 +941,12 @@
             "1_9": "The Meaning Behind Dog Days of Summer Has Nothing to Do With Summer at All. Or dogs, for that matter. As advocates of country living, the dog days of summer are something we're all too familiar with. But, as with many popular expressions, have you ever taken the time to think about what the phrase actually means? What do dogs have to do with it? And what the heck is a dog day anyway?!",
             "0_44": "Watch the episode here: http://bit.ly/1aqStM3. This is the clip where Dean is talking to a dog like a dog. =). Supernatural 9x05 Promo Dog Dean Afternoon, Supernatural S09E05 Promo Dog Dean Afternoon, Supernatural Season 9 Episode 05 Promo Dog Dean Afternoon, 1  Supernatural: Dog Dean Afternoon."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_10",
+            "2_1",
+            "1_9",
+            "0_44"
+        ]
     }
 ]

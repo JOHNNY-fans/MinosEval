@@ -9,7 +9,13 @@
             "1_1": "An insurance company, for example, might seek a declaratory judgment as to whether a policy applies to a certain person or event. Declaratory judgments also commonly involve individuals or parties who seek to determine their rights under specific regulatory or criminal laws.",
             "0_29": "Declaratory Act. The American Colonies Act 1766 (6 Geo 3 c 12), commonly known as the Declaratory Act, was an Act of the Parliament of Great Britain, which accompanied the repeal of the Stamp Act 1765 and the changing and lessening of the Sugar Act."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_3",
+            "2_3",
+            "1_1",
+            "0_29"
+        ]
     },
     {
         "id": 0,
@@ -21,7 +27,13 @@
             "1_6": "Bluetooth and WiFi are different standards for wireless communication. Bluetooth technology is useful when transferring information between two or more devices that are near each other when speed is not an issue, such as telephones, printers, modems and headsets.",
             "0_13": "Support Fastest way to drain the battery. Discussion in 'Android Devices' started by blindnoir, Apr 6, 2010. I want to drain my battery to the very end and then recharge it so I was wondering what to do to really waste the battery really fast. I have the display on the brightest setting, bluetooth and WiFi on. What apps really drain the battery? I tried Sprint TV but it kicked me off the WiFi."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_0",
+            "2_9",
+            "1_6",
+            "0_13"
+        ]
     },
     {
         "id": 9,
@@ -33,7 +45,13 @@
             "1_10": "A continental margin that has a broad continental shelf, a gentle continental slope, and a pronounced continental rise is known as a passive continental margin. This type of margin experiences little, if any, volcanic or earthquake activity. The build-up of sediment is the primary activity affecting a passive margin.he continental shelf is the region that extends seaward from the shoreline to a sharp drop-off that marks the beginning of the continental slope. That drop-off is known as the continental shelf break. Continental shelves vary in width from 3 to 930 miles (5 to 1,500 kilometers).",
             "0_6": "TradeStation’s margin rates are in line with the industry average. Meanwhile, Interactive Brokers’ (IB) margin rates are among the lowest in the industry, and encourage active trading in futures and short selling. IB offers significant value to active traders who can meet the requirements. Pricing And Fees."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_1",
+            "2_1",
+            "1_10",
+            "0_6"
+        ]
     },
     {
         "id": 12,
@@ -44,7 +62,12 @@
             "1_1": "Financial Crimes Compliance Analyst –Due Diligence, reporting to the Due Diligence Manager, will be responsible for conducting Due Diligence as it pertains to Anti-Money Laundering (AML), Fraud, and the Office of Foreign Assets Control (OFAC) compliance.",
             "0_26": "How much does a Trade Compliance Analyst make in Seattle?The average Trade Compliance Analyst salary is $57,823. In Seattle, a Trade Compliance Analyst can make $66,352, which is 14.8% higher than the national median. Filter by location to see Trade Compliance Analyst salaries in your area."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_9",
+            "1_1",
+            "0_26"
+        ]
     },
     {
         "id": 14,
@@ -55,7 +78,12 @@
             "1_11": "Atmospheric ash plume advisories/warnings are also issued by the United States Geological Survey (Aviation Color Codes). 1  Center Weather Advisory – Advisories issued when conditions just below severe (SIGMET) criteria. CWAs are issued for thunderstorms, turbulence, icing, and ceiling and visibility limits (IFR).",
             "0_11": "Definition 1. A point is that which has no part. Definition 2. A line is breadthless length. Definition 3. The ends of a line are points. Definition 4. A straight line is a line which lies evenly with the points on itself. Definition 5.A surface is that which has length and breadth only. Definition 6. The edges of a surface are lines. Definition 7.efinition 1. A point is that which has no part. Definition 2. A line is breadthless length. Definition 3. The ends of a line are points. Definition 4. A straight line is a line which lies evenly with the points on itself. Definition 5. A surface is that which has length and breadth only."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_11",
+            "1_11",
+            "0_11"
+        ]
     },
     {
         "id": 18,
@@ -67,7 +95,13 @@
             "1_4": "Cognitive empathy, on the other hand, is the ability to understand the emotions of others. A good example is the psychologist who understands the emotions of the client in a rational way, but does not necessarily share the emotions of the client in a visceral sense.",
             "0_12": "The Lymph Glands of the Abdomen and Pelvis The lymph glands of the abdomen and pelvis may be divided, from their situations, into (a) parietal, lying behind the peritoneum and in close association with the larger bloodvessels; and (b) visceral, which are found in relation to the visceral arteries. 1."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_12",
+            "2_4",
+            "1_4",
+            "0_12"
+        ]
     },
     {
         "id": 20,
@@ -79,7 +113,13 @@
             "1_16": "RSA makes the public key infrastructure (PKI) encryption standards by which much of the Internet’s secure communication are run. Other RSA products include hardware token s, software tokens, SecurID, Besafe and enVision. RSA encryption is based on use of a public and a private key. Typically a key fob (such as an RSA SecurID security token) is used by employees in security-sensitive companies. The token generates a public key that changes every minute.",
             "0_44": "1 In 1995, RSA sent a handful of people across the hall to found Digital Certificates International, better known as VeriSign. 2  The company then called Security Dynamics acquired RSA Data Security in July 1996 and DynaSoft AB in 1997."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_5",
+            "2_14",
+            "1_16",
+            "0_44"
+        ]
     },
     {
         "id": 24,
@@ -90,7 +130,12 @@
             "1_8": "Nowadays there are many skin care brands, like Theraderm, which are actively promoted by doctors and dermatologists. This is an interesting approach, because it boosts the image of the products through the associated skin care expertise of a doctor.",
             "0_8": "In the case of Theraderm, this is taken even further, as the brand was founded by a plastic surgeon, Dr. James Beckman. However, even though this brand was created by a doctor, it doesn’t mean that the products are the right choice for everyone."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "2_9",
+            "1_8",
+            "0_8"
+        ]
     },
     {
         "id": 32,
@@ -102,7 +147,13 @@
             "1_22": "If economic allocation in any system is not Pareto efficient, there is potential for a Pareto improvement—an increase in Pareto efficiency: through reallocation, improvements can be made to at least one participant's well-being without reducing any other participant's well-being.",
             "0_24": "Home By Subject Statistics & Probability. Histograms are a special type of bar graph that show the distribution of data. In histograms, frequency is represented by the area of each column unlike many bar charts where the height, alone, of each column represents the frequency. The example below is a bar chart. Histograms show numeric ranges along the x-axes. In the example below the sports are not numeric."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_9",
+            "2_2",
+            "1_22",
+            "0_24"
+        ]
     },
     {
         "id": 36,
@@ -114,7 +165,13 @@
             "1_9": "Chaff & Flare Products for Military Aircraft Esterline Defense Technologies has more than 40 years of experience in expendable air countermeasures and is part of the highly respected company",
             "0_41": "Chaff is also made by chopping straw (or sometimes coarse hay) into very short lengths, using a machine called a chaff cutter. Like grain chaff this is used as animal feed, and is a way of turning coarse fodder into a form more palatable to livestock.he process of loosening the chaff from the grain so as to remove it is called threshing – traditionally done by milling or pounding. Separating remaining loose chaff from the grain is called winnowing – traditionally done by repeatedly tossing the grain up into a light wind which gradually blows the lighter chaff away."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_7",
+            "2_8",
+            "1_9",
+            "0_41"
+        ]
     },
     {
         "id": 43,
@@ -126,7 +183,13 @@
             "1_7": "BMT is widely used as first-line treatment in hematologic malignancies, such as leukemias, lymphomas, and multiple myeloma, and is being studied extensively in solid tumors, such as colon and breast cancer, autoimmune diseases, and inherited blood disorders.",
             "0_34": "Do NOT send a package to your Trainee (unless they asked you to send something specific since BMT arrival). When sending a package (requested from your Trainee) only send the item(s) requested. Your Trainee will have to open the package in front of the TI, so keep this business only."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_10",
+            "2_2",
+            "1_7",
+            "0_34"
+        ]
     },
     {
         "id": 48,
@@ -138,7 +201,13 @@
             "1_1": "Making the world better, one answer at a time. Emia is suffix used in the English Language to denote something as referring to blood. Its variants include -emia, -hemia, -aemia and -haemia. The suffix emia is taken from the New Latin and originally comes from the Greek word haima meaning blood.",
             "0_61": "List of English Suffixes Our suffix word lists are the second part of our comprehensive root word tables: Suffixes are word endings that add a certain meaning to the word."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_3",
+            "2_2",
+            "1_1",
+            "0_61"
+        ]
     },
     {
         "id": 50,
@@ -150,7 +219,13 @@
             "1_34": "Get medical help right away if you develop chest pain/tightness/pressure, chest pain spreading to the jaw/neck/arm, unusual sweating, trouble breathing, or fast/irregular heartbeat. USES: Carvedilol is used to treat high blood pressure and heart failure. It is also used after a heart attack to improve the chance of survival if your heart is not pumping well.",
             "0_24": "There are three types of rate control medications: Beta Blockers, which slow the heart rate and relax the blood vessels. Examples include Atenolol (Tenormin®), Carvedilol (Coreg™), Metoprolol (Toprol XL™, Lopressor®), and Sotalol (Betapace®)"
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_38",
+            "2_15",
+            "1_34",
+            "0_24"
+        ]
     },
     {
         "id": 16,
@@ -162,7 +237,13 @@
             "1_93": "Medicare Part A (Hospital Insurance (HI)) program that pays for hospitalization, care in a skilled nursing facility, home health care and hospice care.   . program that pays for physician services, outpatient hospital services, durable medical equipment, and other services and supplies.",
             "0_19": "Definition of durable. : able to exist for a long time without significant deterioration in quality or value a durable suitcase; also : designed to be durable durable goods."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_4",
+            "2_17",
+            "1_93",
+            "0_19"
+        ]
     },
     {
         "id": 28,
@@ -174,7 +255,13 @@
             "1_28": "Coniferous are the pine, spruce and fir trees mainly, with needles and cones. Deciduous are the leafy trees. Thus the first three-oak elm and maple are deciduous, and spruce and pine are coniferous.",
             "0_62": "Physical Description. A description of the appearance of a work expressed in generic terms, without reference to the subject depicted. This includes the names of any recognizable patterns, motifs, or textures used in the decoration of the work. The description of the physical appearance of the object should be as objective as possible."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_7",
+            "2_14",
+            "1_28",
+            "0_62"
+        ]
     },
     {
         "id": 31,
@@ -185,7 +272,12 @@
             "1_9": "Geon (n.) 1.(MeSH)A polyvinyl resin used extensively in the manufacture of plastics, including medical devices, tubing, and other packaging.",
             "0_23": "Meaning of “define” in the English Dictionary. define in British English. defineverb [ T ] define verb [ T ] (EXPLAIN) In the dictionary, reality is defined as the state of things as they are, rather than as they are imagined to be."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "2_1",
+            "1_9",
+            "0_23"
+        ]
     },
     {
         "id": 34,
@@ -197,7 +289,13 @@
             "1_11": "THE ATMOSPHERE AND RADIO WAVES. The atmosphere plays a vital role in the way in which radio waves travel around the earth. Without its action it would not be possible for signals to travel around the globe on the short wave bands, or travel greater than only the line of sight distance at higher frequencies. with an interest in the topic.",
             "0_83": "____ 31. Waves that require a medium through which to travel are called electromagnetic waves. _________________________. ____ 32. In transverse waves, the particles of the medium move at right angles to the direction in which the wave is traveling. _________________________. ____ 33."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_1",
+            "2_37",
+            "1_11",
+            "0_83"
+        ]
     },
     {
         "id": 41,
@@ -209,7 +307,13 @@
             "1_52": "  Granulation tissue is a kind of tissue generated in a healing wound to both break down damaged tissue and to help prevent infection, however, sometimes growth of granula … tion tissue can be too robust.An excess of granulation tissue is informally known in the medical community as proud flesh.Depending on the specifics of your case, a treating physician may apply a fine layer of silver nitrate to the excess tissue. All the tissue of the inner portion of the breast is r…. 2  The Risks, Benefits and Recovery From a Colposcopy Procedure A colposcopy procedure uses an instrument known as a colposcope to examine the tissues of your cervix and vaginal wall.",
             "0_22": "New tissue that is pink/red in color and composed of fibroblast and small blood vessels that fill an open wound when it starts to heal. Excessive production of granulation tissue characterizing some healing events. abnormally raised or thickened scar that expands beyond the boundaries of the incision."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_10",
+            "2_2",
+            "1_52",
+            "0_22"
+        ]
     },
     {
         "id": 10,
@@ -221,7 +325,13 @@
             "1_18": "R11.0, T46.2x5A, I48.91. The patient arrived to the hospital in acute respiratory failure and hypoxia. The patient was intubated, and the physician documents that the patient is being admitted to the hospital for treatment of the acute respiratory failure with hypoxia. The patient also has congestive heart failure. Mechanical ventilation was provided for 48 consecutive hours. Code the procedure for the mechanical ventilation.",
             "0_34": "CPT 99305 (Initial nursing facility care, per day, for the evaluation and management of a patient) and used for new patient visits. It cannot be used ventilator management. You need to used 94002 (Ventilation assist and management, initiation of pressure or volume mechanical ventilation for."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_5",
+            "2_7",
+            "1_18",
+            "0_34"
+        ]
     },
     {
         "id": 44,
@@ -232,7 +342,12 @@
             "1_20": "Etruscan Etruria. The ancient people of Etruria are labeled Etruscans, and their complex culture was centered on numerous city-states that rose during the Villanovan period in the ninth century BCE and were very powerful during the Orientalizing Archaic periods.",
             "0_18": "The rise started when the small village of Rome came under the rule of the Etruscans who in turn made a monarchy whose kings were the tranquini who during their rule expanded it 60 or 160 miles (Don't know how far :p) when the Romans overthrew the kings of Rome and made the republic they knew that they would have to take care of the Greeks in ..."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "2_17",
+            "1_20",
+            "0_18"
+        ]
     },
     {
         "id": 6,
@@ -244,7 +359,13 @@
             "1_11": "As a child with Cerebral Palsy grows, other symptoms may include drooling, speech impairment, difficulty maintaining bladder and/or bowel control, convulsive seizures, hand tremors, and the inability to identify objects by touch.s a child with Cerebral Palsy grows, other symptoms may include drooling, speech impairment, difficulty maintaining bladder and/or bowel control, convulsive seizures, hand tremors, and the inability to identify objects by touch.",
             "0_34": "Spastic cerebral palsy is the most common type of cerebral palsy. The muscles of people with spastic cerebral palsy appear stiff and their movements may look stiff and jerky.Spasticity is a form of hypertonia, or increased muscle tone.When people without cerebral palsy perform a movement, some groups of muscles turn on and some groups of muscles turn off. In people with spastic cerebral palsy, both groups of muscles may become turned on at the same time.pastic cerebral palsy is the most common type of cerebral palsy. The muscles of people with spastic cerebral palsy appear stiff and their movements may look stiff and jerky."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_7",
+            "2_7",
+            "1_11",
+            "0_34"
+        ]
     },
     {
         "id": 19,
@@ -256,7 +377,13 @@
             "1_4": "In this study, P4B was investigated as a label for the secondary cell walls of radiata pine tracheids. Although the data show some significant differences to Anderson et al. (2010), P4B was confirmed as an excellent stain for cellulose in pine tracheids, notably for the S1 and S3 layers.",
             "0_4": "Mixture of large vessels and tracheids. The vascular cambium is the darker layer of cells indicated by the arrow. This meristematic. layer of cells divides inwardly to form new xylem, and outwardly to produce new phloem."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_11",
+            "2_23",
+            "1_4",
+            "0_4"
+        ]
     },
     {
         "id": 17,
@@ -268,7 +395,13 @@
             "1_19": "RNA splicing is the cutting out of the introns from the mRNA strand that was transcribed & putting back together of exons to be translated. It is necessary so the cell is more efficient by removing unnecessary coding.",
             "0_18": "Before it leaves the nucleus of a eukaryotic cell, mRNA is altered in the following ways: - a cap is added to the 5' end of the mRNA molecule;- a poly A tail is added to the 3' end; - introns are removed and exons are spliced together."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_38",
+            "2_2",
+            "1_19",
+            "0_18"
+        ]
     },
     {
         "id": 21,
@@ -280,7 +413,13 @@
             "1_6": "An LPS conservatorship gives legal authority to one adult (called a conservator) to make certain decisions for a seriously mentally ill person (called a conservatee) who is unable to take care of him/ herself.",
             "0_26": "LPS are the middle, prefer a little more light, and usually need better water quality. SPS is generally considered the hardest to keep, they require very stable water, and high flow and very high light."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_8",
+            "2_9",
+            "1_6",
+            "0_26"
+        ]
     },
     {
         "id": 26,
@@ -292,7 +431,13 @@
             "1_15": "Its receptor is linked to a G protein. d. Acetylcholine is released by axon terminals of the motor neuron. d. Acetylcholine is released by axon terminals of the motor neuron. Action potentials travel the length of the axons of motor neurons to the axon terminals.",
             "0_12": "Synaptic cleft is the space between the motor end plate (muscle fiber part) and synaptic end bulb (motor neuron part) of the neuromuscular junction. It is 20 to 30 nanometers wide. Because of this cleft, the connection between the motor neuron and the muscle fiber is not continuous and there is a break.ynaptic end bulbs: As the axon of the motor neuron enters the skeletal muscle, it forms many branches called axon terminals. At the end of each axon terminal, there is a bulbous swelling called “synaptic end bulb”."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_12",
+            "2_3",
+            "1_15",
+            "0_12"
+        ]
     },
     {
         "id": 52,
@@ -301,7 +446,10 @@
         "response": {
             "0_12": "1 Installing the HP ALM Microsoft Excel Add-in To export requirements, test plans, or defects from Microsoft Excel to ALM, you must install the HP ALM Microsoft Excel Add-in on your client machine."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "0_12"
+        ]
     },
     {
         "id": 54,
@@ -313,7 +461,13 @@
             "1_2": "There are many that can be grown. Corn, okra, bell peppers, zucchini, cherry tomatoes, cukes, green beans, potatoes, onions, and more. Many tropical fruits also. One popular fruit is called a mamey, looks like this.",
             "0_3": "Havana markets. Just ask a Cuban to show you where Havana markets are located. Many are hidden away, like Animas, down a side street. The prices listed at these outdoor markets are in pesos At these small farmers’ markets you can buy aromatic vegetables and tropical fruits like mangoes, papaya and the exotic mamey; also black beans, garlic and avocados."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_7",
+            "2_1",
+            "1_2",
+            "0_3"
+        ]
     },
     {
         "id": 39,
@@ -325,7 +479,13 @@
             "1_13": "Acetyl-L-carnitine, ALCAR or ALC, is an acetylated form of L-carnitine. It is naturally produced by the body, although it is often taken as a dietary supplement. Acetylcarnitine is broken down in the blood by plasma esterases to carnitine which is used by the body to transport fatty acids into the mitochondria for breakdown.",
             "0_9": "Learn the FACTS about Glutamine, BCAA's, Arginine, Lysine, Methionine, Carnitine, Cysteine, and HMB. Amino Acids are wondrous things. Once you learn what they do in the body, you're almost struck with amazement."
         },
-        "label": 1
+        "label": 1,
+        "rank": [
+            "3_9",
+            "2_4",
+            "1_13",
+            "0_9"
+        ]
     },
     {
         "id": 8,
@@ -336,7 +496,12 @@
             "1_22": "Definitions for Contour plowing. Contour plowing. Contour ploughing or contour farming is the farming practice of ploughing and/or planting across a slope following its elevation contour lines.",
             "0_0": "Plowing and planting across the changing slope of land, rather than in straight lines, to help retain water and reduce soil erosion. Method for reducing soil erosion; plant stalks are left in the field after harvesting and the next year's crop is planted within the stalks without plowing."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_10",
+            "1_22",
+            "0_0"
+        ]
     },
     {
         "id": 3,
@@ -347,7 +512,12 @@
             "1_7": "Several types of diseases and conditions can cause pelvic pain. Chronic pelvic pain can result from more than one condition. Pelvic pain can arise from your digestive, reproductive or urinary system. Recently, doctors have recognized that some pelvic pain, particularly chronic pelvic pain, can also arise from muscles and connective tissue (ligaments) in the structures of the pelvic floor. Occasionally, pelvic pain might be caused by irritation of nerves in the pelvis.",
             "0_26": "1 Pelvic inflammatory disease many not produce any symptoms. 2  In other cases it can cause fever, abdominal or pelvic pain, vaginal discharge, painful urination, or painful sexual intercourse.3  Pelvic inflammatory disease is treated with antibiotics. Pelvic inflammatory disease many not produce any symptoms. 2  In other cases it can cause fever, abdominal or pelvic pain, vaginal discharge, painful urination, or painful sexual intercourse."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_6",
+            "1_7",
+            "0_26"
+        ]
     },
     {
         "id": 5,
@@ -359,7 +529,13 @@
             "1_34": "Get Negril, Jamaica typical February Weather including average and record temperatures from AccuWeather.com",
             "0_76": "Lecroft Carridice: History will always be history. Independence for Jamaica was a major blow to the economy and development of Jamaica. The only major growth that has taken place in Jamaica is the murder rate and corruption in politics."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_0",
+            "2_40",
+            "1_34",
+            "0_76"
+        ]
     },
     {
         "id": 7,
@@ -371,7 +547,13 @@
             "1_3": "The truly BEST way to cook meat evenly (frozen or not) would be a low-temp cooking process (AKA sous vide). If you can surround the meat with water at exactly the target temperature of the meat (e.g. 60 Celsius for chicken) you don't need to worry about it getting overcooked.",
             "0_17": "The best temperature for red wine is 62-68 degrees. The best temperature for white wine is 49-55 degrees. Serving wine is not an exact science unless you are the guys at Modernist Cuisine (who’d probably put the wine sous vide to the ‘perfect’ temperature)."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_3",
+            "2_10",
+            "1_3",
+            "0_17"
+        ]
     },
     {
         "id": 4,
@@ -383,7 +565,13 @@
             "1_35": "Social determinants of health reflect the social factors and physical conditions of the environment in which people are born, live, learn, play, work, and age. Also known as social and physical determinants of health, they impact a wide range of health, functioning, and quality-of-life outcomes. Examples of social determinants include: Availability of resources to meet daily needs, such as educational and job opportunities, living wages, or healthful foods.",
             "0_24": "Social Determinants of Infant and Child Health. The social determinants that influence maternal health also affect pregnancy outcomes and infant health. Racial and ethnic disparities in infant mortality exist, particularly for African American infants."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_2",
+            "2_1",
+            "1_35",
+            "0_24"
+        ]
     },
     {
         "id": 1,
@@ -394,7 +582,12 @@
             "1_1": "Transcript of The events that led up to America’s involvement in WW1. photo credit Nasa / Goddard Space Flight Center / Reto Stoeckli STöCKLI BY KATE PACE THE EVENTS THAT LED TO AMERICAS INVOLVEMENT IN •Ww1 President Woodrow wilson declared On august, 19 1914 to, congress the neutrality of The United states In World War. iranscript of The events that led up to America’s involvement in WW1. photo credit Nasa / Goddard Space Flight Center / Reto Stoeckli STöCKLI BY KATE PACE THE EVENTS THAT LED TO AMERICAS INVOLVEMENT IN •Ww1 President Woodrow wilson declared On august, 19 1914 to, congress the neutrality of The United states In World War. i",
             "0_10": "Confidence votes 150. Britain entered WW1 in the defense of Belguim and in reaction to Germany's violation of The Treaty of London(1839), in which Belguim's neutrality was to be respected by all nations."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_11",
+            "1_1",
+            "0_10"
+        ]
     },
     {
         "id": 11,
@@ -406,7 +599,13 @@
             "1_9": "and parallel to them: EF || AD and EF || BC. A trapezoid with equal lateral sides (AB = CD) is called an isosceles trapezoid. In an isosceles trapezoid angles by each base, are equal (A = D, B = C). A parallelogram can be considered as a particular case of trapezoid. Midline of a triangle is a segment, joining midpoints of lateral sides of a triangle. A midline of a triangle is equal to half of its base and parallel to it.",
             "0_17": "Let's begin studying the area of a trapezoid. The area of a trapezoid is equal to one half the height multiplied by the sum of the lengths of the bases. It is expressed as. where A is the area of the trapezoid, h is the height, and b1 and b2 are the lengths of the two bases. The bases and height of the trapezoid are required in order to determine its area. Let's work on two exercises that will help us apply this area formula to trapezoids. Exercise 1. Find the area of trapezoid ABCD. Solution: This problem appears to be quite simple because we are given the lengths of both bases and the height of the trapezoid."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_1",
+            "2_7",
+            "1_9",
+            "0_17"
+        ]
     },
     {
         "id": 13,
@@ -418,7 +617,13 @@
             "1_5": "Officially throughout the country only the national currency of Thailand – Thai baht – is accepted. But if you have just arrived and did not have time for the currency exchange then you can pay for taxi in dollars or euros, where in fact it is difficult not to overpay.ead more about the currency exchange rates, Thai baht rates to other currencies and about bank cards and travel checks in a special article. Thai Baht has been the national currency of the Kingdom of Thailand since April 15, 1928.",
             "0_4": "Answer Wiki. The best thing to do would be to carry a Thai Baht Forex Card with you before leaving India. Thai Baht as cash usually has a higher markup and is subject to availability in the market, where as Forex cards loaded with Thai Baht are easily available and cost-effective. You should load the card with Thai Bhat instead of USD to avoid cross-currency charges of 4%."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_38",
+            "2_0",
+            "1_5",
+            "0_4"
+        ]
     },
     {
         "id": 15,
@@ -429,7 +634,12 @@
             "1_8": "More on Warm-Bodied Sharks. Shortfin Mako (Isurus oxyrinchus) A question came across SHARK-L concerning makos being considered warm-blooded and various replies touch upon aspects of the topic. I responded to the original query and went onto expand upon or correct some of those responses.",
             "0_28": "In common parlance, endotherms are characterized as warm-blooded.. The opposite of endothermy is ectothermy, although there is no absolute or clear separation between the nature of endotherms and ectotherms in general."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_2",
+            "1_8",
+            "0_28"
+        ]
     },
     {
         "id": 22,
@@ -440,7 +650,12 @@
             "1_7": "The part that is often missed on people (and probably the most important part) is who Three Percenters are supposed to be modeled after. It’s one thing to say you will stand up and fight or wave a certain flag (when everyone else does).",
             "0_12": "The top 20 percent of this country, not just the top one percenters, is leaving everyone else behind. We’ll talk with the author of Dream Hoarders. Skip to main content"
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_8",
+            "1_7",
+            "0_12"
+        ]
     },
     {
         "id": 25,
@@ -450,7 +665,11 @@
             "1_6": "Definition of environment: The sum total of all surroundings of a living organism, including natural forces and other living things, which provide conditions for development and growth as well as of danger and damage. See also environmental factors.",
             "0_24": "Anthropological perspective of culture diversity. When it comes to understanding diversity in cultures, the anthropological view can help humanity understand and appreciate the complexity of diverse cultures. This discipline involves the study of biological and cultural origins of the humans."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "1_6",
+            "0_24"
+        ]
     },
     {
         "id": 29,
@@ -461,7 +680,12 @@
             "1_9": "Select a shorter barrel shotgun such as one that is 20 inches long for use in home defense or personal protection. A shorter will be easier to handle and aim inside a home where walls and furniture must be considered.Choose a barrel length between 22 and 24 inches for shotguns to be used for turkey hunting.elect longer barrel shotguns, such as those with 30 inch barrels, for hunting ducks, geese or dove. Long range wing shots require a longer barrel and will produce better shot pattern results down range than a shorter barrel shotgun.",
             "0_38": "Shot is a collective term for small balls or pellets, often made of lead. These were the original projectiles for shotguns and are still fired primarily from shotguns, although shot shells are available in many pistol calibers in a configuration called bird shot or rat-shot .n this process, molten lead is dripped from small orifices and dropped approximately 1 inch (2.5 centimetres) into a hot liquid, where it is then rolled along an incline and then dropped another 3 ft (91 cm)."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_6",
+            "1_9",
+            "0_38"
+        ]
     },
     {
         "id": 30,
@@ -473,7 +697,13 @@
             "1_2": "The Dowd Report asserted that Pete Rose bet on 52 Reds games in 1987, at a minimum of $10,000 a day. Rose, facing a very harsh punishment, along with his attorney and agent, Reuven Katz, decided to seek a compromise with Major League Baseball. On August 24, 1989, Rose agreed to a voluntary lifetime ban from baseball.",
             "0_33": "Who is Deidre Hall One of the gorgeous and renowned television actress from America who rose to fame after appearing in the drama Days of our Lives. Early Life (Childhood)"
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_4",
+            "2_10",
+            "1_2",
+            "0_33"
+        ]
     },
     {
         "id": 23,
@@ -485,7 +715,13 @@
             "1_9": "Suicide is a leading cause of death among people who abuse alcohol, drugs, and other. substances. Alcohol and drug use disorders elevate risk for suicide ideation and attempts. Depression has many negative consequences in regard to suicide risk in those with COD.",
             "0_24": "§ In 2014, the rate of suicide among all Veterans was 35.3 per 100,000. • Since 2001, the age-adjusted rate of suicide among U.S. Veterans has increased by 32.2%."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_11",
+            "2_8",
+            "1_9",
+            "0_24"
+        ]
     },
     {
         "id": 27,
@@ -497,7 +733,13 @@
             "1_17": "In calculus, a function defined on a subset of the real numbers with real values is called monotonic if and only if it is either entirely increasing or decreasing. It is called monotonically increasing (also increasing or nondecreasing), if for all and such that one has, so preserves the order (see Figure 1).",
             "0_9": "At lower energies (longer wavelengths), the waves interact with the material in various ways so that they can get absorbed, refracted, reflected, and re-emitted. These effect vary in non-monotonic ways as a function of wavelength, the depth of the material, it's resistivity, density, and other properties."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_2",
+            "2_9",
+            "1_17",
+            "0_9"
+        ]
     },
     {
         "id": 33,
@@ -509,7 +751,13 @@
             "1_0": "Here's how to wash whites - from regular-wear clothes like shirts and pants to towels, socks and bed sheets - safely from start to a bright, clean finish. Of course you'll start by separating white clothes from light and dark clothes. From there, further separate whites by wash temperature - hot, warm, or cold.",
             "0_9": "Some clothes, the colour runs out of them when they are washed and if they happen to touch something white the colour will transfer onto the white item. Happened to me when I put a top on top of white towel in my washing basket to go out and hang them to dry."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_12",
+            "2_14",
+            "1_0",
+            "0_9"
+        ]
     },
     {
         "id": 37,
@@ -521,7 +769,13 @@
             "1_8": "A blended unconformity is a type of disconformity or nonconformity with no distinct separation plane or contact, sometimes consisting of soils, paleosols, or beds of pebbles derived from the underlying rock.",
             "0_37": "Earth science – all-embracing term for the sciences related to the planet Earth. It is also known as geoscience, the geosciences or the Earth sciences, and is arguably a special case in planetary science, the Earth being the only known life-bearing planet.arth science – all-embracing term for the sciences related to the planet Earth. It is also known as geoscience, the geosciences or the Earth sciences, and is arguably a special case in planetary science, the Earth being the only known life-bearing planet."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_0",
+            "2_3",
+            "1_8",
+            "0_37"
+        ]
     },
     {
         "id": 40,
@@ -533,7 +787,13 @@
             "1_6": "Under Unix-like operating systems, when a script with a shebang is run as a program, the program loader parses the rest of the script's initial line as an interpreter directive; the specified interpreter program is run instead, passing to it as an argument the path that was initially used when attempting to run the script.",
             "0_30": "I have to own my share of the misunderstanding, I don't think they were trying to rip us off, but they said and we have to replace the rear brakes, that'll be $600, which made it sound to us like that was the cost just for the brake job . . . but they meant, that's the cost for the whole shebang."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_1",
+            "2_7",
+            "1_6",
+            "0_30"
+        ]
     },
     {
         "id": 35,
@@ -544,7 +804,12 @@
             "1_3": "The workshop “Globalization of food systems: impact on food security and nutrition” was. held at the headquarters of the Food and Agriculture Organization of the United Nations. (FAO) in Rome, Italy from 8 to 10 October 2003. The workshop was convened to gain a.",
             "0_5": "Demographics of Colombia, Data of FAO, year 2005 ; Number of inhabitants in thousands. 2005 Census According to the 2005 census, there are 46,219,699 Colombians in the world (42,888,592 living in the national territory and 3,331,107 living abroad)."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_2",
+            "1_3",
+            "0_5"
+        ]
     },
     {
         "id": 42,
@@ -556,7 +821,13 @@
             "1_9": "Exactly who is digging up graves and cutting the nose off the ancient statues found buried beneath the African sands of Egypt. Egyptians consider themselves Egyptians and not black Egyptian is not an ETHNICITY.Egypt is the name given to the African land once known as KEMET. When a person of Indian descent speaks of his homeland and says I am the true American.xactly who is digging up graves and cutting the nose off the ancient statues found buried beneath the African sands of Egypt. Egyptians consider themselves Egyptians and not black Egyptian is not an ETHNICITY.",
             "0_14": "1 The red color of the crown is associated with the “Red land” the arid desert land that surrounds the fertile “Black land” of Kemet. The protruding wire is a symbol of proboscis of the honeybee.  The crown is made of organic materials like cloth or reeds."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_22",
+            "2_2",
+            "1_9",
+            "0_14"
+        ]
     },
     {
         "id": 38,
@@ -567,7 +838,12 @@
             "1_41": "Age Discrimination in Employment. Workplace discrimination is the most common type of age discrimination. Many older workers suffer an age discrimination layoff, or a layoff based on age and not the pretext claim of a genuine business related need to lay off workers.here are several common manifestations or types of age discrimination. Below details the common sources of illegal discrimination based on age:",
             "0_8": "I-44 in Oklahoma City. Main article: Interstate 44 in Oklahoma. I-44 in Oklahoma is mostly three separate toll roads; it is paralleled by former US 66 from Oklahoma City to the Missouri line. In southwestern Oklahoma, I-44 is the H. E. Bailey Turnpike and is mainly south–north."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_4",
+            "1_41",
+            "0_8"
+        ]
     },
     {
         "id": 45,
@@ -578,7 +854,12 @@
             "1_2": "His laudable desire to present a picture of the whole political situation at each important moment is fatal to the continuity of his narrative. Laudable, and the latest sources of the Pentateuch contain several such lists.",
             "0_45": "DEFINITION ESSAY Definition Essay Definition: The aim in this essay... is to define, explain, and exemplify something. Generally, in definition essays, we try to make the terms that we use understandable for the reader."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_4",
+            "1_2",
+            "0_45"
+        ]
     },
     {
         "id": 46,
@@ -590,7 +871,13 @@
             "1_21": "The muscles in our bodies are attached to bones. They help the bones move, much like strings help a puppet move. But muscles can pull in only one direction. They cannot push. Each bone is usually attached to a pair of muscles.",
             "0_26": "Introduction. Neuromuscular re-education is a technique used by rehabilitation therapists to restore normal movement. Together, your nerves and muscles work to produce movements. Nerves send signals between your muscles and your brain about when, where, and how fast to move.It is a complex process.euromuscular re-education is a technique used by rehabilitation therapists to restore normal movement. Together, your nerves and muscles work to produce movements. Nerves send signals between your muscles and your brain about when, where, and how fast to move. It is a complex process."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_6",
+            "2_9",
+            "1_21",
+            "0_26"
+        ]
     },
     {
         "id": 49,
@@ -601,7 +888,12 @@
             "1_19": "More specifically, there are some foods that are always good for the diet of a person with high cholesterol. Fish, whole grains, oat bran, oatmeal, blueberries, avocados, olives, olive oil, flaxseed oil and yogurt with live active cultures are all good options if you want to keep your cholesterol levels down.s mentioned before, it’s important to steer clear of foods with high cholesterol, saturated fat and trans fat levels if you want to lower your cholesterol. The most common examples of these foods include butter, fatty meats and ice cream.",
             "0_44": "How much cholesterol are in 1 serving? Compared to foods in the same food group, this food has a minimum degree of cholesterol. Here, just 0% of other foods in this food group have a lower ratio of cholesterol to calories. Likewise, only 0% of all foods in our database have a lower ratio of cholesterol to calories."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "2_15",
+            "1_19",
+            "0_44"
+        ]
     },
     {
         "id": 51,
@@ -613,7 +905,13 @@
             "1_20": "When stress is suppressing the pituitary gland enough to interfere with producing TSH, you might see low or normal TSH levels in the presence of low thyroid hormone production (T3 or T4), and hypothyroid symptoms. Triiodothyronine (T3) and thyroxine (T4) are the hormones produced by your thyroid gland.",
             "0_2": "This is usually because the thyroid is not making enough T3 to stop the pituitary producing TSH. If the level of TSH is high, you will usually have further tests to check the levels of T3 and T4 in the blood. In people with an overactive thyroid (hyperthyroidism) the level of TSH will usually be low."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_44",
+            "2_13",
+            "1_20",
+            "0_2"
+        ]
     },
     {
         "id": 47,
@@ -625,7 +923,13 @@
             "1_6": "METEOROLOGIST JEFF HABY. When I was a kid I would hear that it is the dog days of summer in Texas during times of persistently hot weather in the summer. I assumed that the term dog meant that outdoor dogs suffered from all the heat day after day. Life for an outdoor dog just can not be fun on those 95 F and hotter days that repeat in the summer.",
             "0_46": "The Friday after Father's Day each year is dedicated to man's best friend. In fact, it's Take Your Dog to Work Day."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_6",
+            "2_0",
+            "1_6",
+            "0_46"
+        ]
     },
     {
         "id": 53,
@@ -637,6 +941,12 @@
             "1_12": "this is not legal advice for legal advice consult an attorney in person not a blog in most instances a buyer will take title to the property by a statutory warranty deed as the name implies this deed is defined by statuteor legal advice consult an attorney in person not a blog in most instances a buyer will take title to the property by a statutory warranty deed as the name implies this deed is defined by statute",
             "0_6": "(Civil Code Section 1092) A second form of deed is the quitclaim deed. It resembles the common law “conveyance by a release.” Other types of deeds are the warranty deed, the trust deed, the reconveyance deed, the sheriff’s deed, and the gift deed."
         },
-        "label": 0
+        "label": 0,
+        "rank": [
+            "3_11",
+            "2_8",
+            "1_12",
+            "0_6"
+        ]
     }
 ]
